@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Optional generated artifacts
+*.pdf
