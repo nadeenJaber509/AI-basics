@@ -4,10 +4,10 @@ This repository contains the Jupyter notebooks for Experiments 1 to 5 from the A
 
 ## Contents
 
-- [exp1/exp1.ipynb](exp1/exp1.ipynb)
+- [ENCS5141_Exp1_Data_Exploration.ipynb](exp1/ENCS5141_Exp1_Data_Exploration.ipynb)
 - [ENCS5141_Exp2_Data_Visualization_and_Cleaning_and_Feature_Selection.ipynb](ENCS5141_Exp2_Data_Visualization_and_Cleaning_and_Feature_Selection.ipynb)
 - [ENCS5141_Exp3_Feature_Engineering.ipynb](ENCS5141_Exp3_Feature_Engineering.ipynb)
-- [Exp4.ipynb](Exp4.ipynb)
+- [ENCS5141_Exp4_Supervised_Learning.ipynb](ENCS5141_Exp4_Supervised_Learning.ipynb)
 - [ENCS5141_Exp5_Unsupervised_Learning.ipynb](ENCS5141_Exp5_Unsupervised_Learning.ipynb)
 
 ## Notes
